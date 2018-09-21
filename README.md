@@ -11,7 +11,9 @@
   - Once the user's score is reset after an incorrect guess, the game will restart.
 
    # DEMO
- ![SouthPark Memory Game](/images/Screen Shot 2018-09-21 at 12.59.23 PM)
+ ![SouthPark Memory Game](/public/images/Webp.net-resizeimage.png)
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
