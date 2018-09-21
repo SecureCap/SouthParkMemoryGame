@@ -1,7 +1,7 @@
 ## South Park Themed Memory Game
  -  A memory game with React, this web application will require you to break up your application's UI into components, manage component state, and respond to user events.
 
- #Whats going on
+ # Whats going on
   - The application will render different images (of your choice) to the screen. Each image should listen for click events.
 
   - The application will keep track of the user's score. The user's score will be incremented when clicking an image for the first time. The user's score will be reset to 0 if they click the same image more than once.
