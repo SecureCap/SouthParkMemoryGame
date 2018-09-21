@@ -2,6 +2,10 @@
   "name": "clickygame",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+      "npm": "6.4.1",
+      "node": "10.7.0"
+  },
   "homepage": "https://SecureCap.github.io/SouthParkMemoryGame",
   "dependencies": {
     "react": "^16.5.2",
